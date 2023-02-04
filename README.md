@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://laiba-cs51.blogspot.com/?zx=425c7108da0a5c98](https://laiba-cs51.blogspot.com/?zx=425c7108da0a5c98)
 
-- ⚡ Fun fact **I am Beautiful.**
+- ⚡ Fun fact **I am Pretty.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
