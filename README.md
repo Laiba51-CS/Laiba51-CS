@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laiba.</h1>
 <h3 align="center">Passionate Programmer and Software Developer pursuing a Bachelor's degree in Computer Science from the prestigious University of Engineering and Technology.</h3>
-<img align="right" alt="coding" width="400" src ="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FS59bPkT0pqcAAAAC%2Fprogramming.gif&tbnid=SS1GkdNnlHNJqM&vet=12ahUKEwjOqPGRtoj_AhWFrycCHWvCD64QMygLegUIARCsAg..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&docid=3g8g6-RBzQfWoM&w=498&h=373&q=animated%20coding%20gif&ved=2ahUKEwjOqPGRtoj_AhWFrycCHWvCD64QMygLegUIARCsAg#imgrc=SS1GkdNnlHNJqM&imgdii=fsI9B3cakuWnOM">
+<img align="right"  width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw3Odr3FBY_xsgjrq2DLY7Ml&ust=1684829515103000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCtmpi9iP8CFQAAAAAdAAAAABAZ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laiba51-cs&label=Profile%20views&color=0e75b6&style=flat" alt="laiba51-cs" /> </p>
