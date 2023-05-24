@@ -1,5 +1,5 @@
 
-<img src="pos.png" />
+
 <br>
 <h4 align="justify">
 <h1 align="center">Hi 👋, I'm Laiba.</h1>
