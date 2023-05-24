@@ -3,11 +3,11 @@
 <br>
 <h4 align="justify">
 <h1 align="center">Hi 👋, I'm Laiba.</h1>
+<h3 align="center">Passionate Programmer and Software Developer pursuing a Bachelor's degree in Computer Science from the prestigious University of Engineering and Technology.</h3>
 Welcome to my GitHub profile! I am Passoinate Programmer and have experience in various programming languages. My focus is on writing high-quality code, especially for desktop applications using C++ and C#.<br>
 I am a highly skilled developer with a broad range of expertise in various programming languages, such as C, C++, C#, and Python. My strengths lie in problem-solving, effective communication, and dedicated client management. In addition, I possess extensive knowledge of data structures and database concepts. I am driven by the pursuit of new challenges and continuous growth as a developer, always seeking out opportunities to expand my skill set and deliver exceptional results to clients. With a passion for innovation and a commitment to excellence, I strive to consistently exceed expectations in every project I undertake.
  </h4>
  <br><br>
-<h3 align="center">Passionate Programmer and Software Developer pursuing a Bachelor's degree in Computer Science from the prestigious University of Engineering and Technology.</h3>
 <img align="right"  width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw3Odr3FBY_xsgjrq2DLY7Ml&ust=1684829515103000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCtmpi9iP8CFQAAAAAdAAAAABAZ">
 
 
